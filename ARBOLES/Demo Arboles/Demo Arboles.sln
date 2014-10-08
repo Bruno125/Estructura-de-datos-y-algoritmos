@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo Arboles", "Demo Arboles\Demo Arboles.vcxproj", "{480AD986-8D41-4095-BC8C-A1D8822E72ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480AD986-8D41-4095-BC8C-A1D8822E72ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{480AD986-8D41-4095-BC8C-A1D8822E72ED}.Debug|Win32.Build.0 = Debug|Win32
+		{480AD986-8D41-4095-BC8C-A1D8822E72ED}.Release|Win32.ActiveCfg = Release|Win32
+		{480AD986-8D41-4095-BC8C-A1D8822E72ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
